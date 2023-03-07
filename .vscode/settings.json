@@ -1,0 +1,11 @@
+{
+  "editor.tabSize": 2,
+  "editor.indentSize": "tabSize",
+  "explorer.compactFolders": false,
+  "editor.wordWrap": "on",
+  "editor.guides.bracketPairs": true,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "typescript.format.semicolons": "insert",
+  "javascript.format.semicolons": "insert"
+}
